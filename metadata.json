@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Sureshot Server",
+  "description": "A minimalist server status header featuring a pristine white and pink theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
